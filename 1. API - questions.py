@@ -12,8 +12,8 @@ params = {
     "sort": "activity",
     "site": "seasonedadvice",
     "filter": "!.FdHWktsCC9AyWntVC6otysSjCtdP",
-    "access_token": "rj4tHuG8RyfRb(t9q4ASTg))",
-    "key": "u9qXNewWlVKXeiOVLfQYlA((",
+    "access_token": "--",
+    "key": "--",
 }
 
 data_list = []
